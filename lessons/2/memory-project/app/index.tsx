@@ -43,6 +43,15 @@ const MEMORIAS: Memoria[] = [
     comunidade: "Comunidade Fictícia C",
     categoria: "Celebração",
     resumo: "Um registro simulado sobre partilha, música e memória coletiva.",
+    ano: 2012,
+  },
+  {
+    id: 4,
+    titulo: "Fonte do encontro",
+    comunidade: "Comunidade Fictícia D",
+    categoria: "Lugar",
+    resumo: "Um lugar fictício de encontro e troca de histórias entre gerações.",
+    ano: 2016,
   },
 ];
 
